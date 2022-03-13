@@ -1,0 +1,1 @@
+C:\_Azure\Interne Projekte\IaaS\ARM DevOps Create Web and DB\ArmTemplates\ArmTemplates.Templates\obj\Debug\ArmTemplates.Templates.deployproj.CoreCompileInputs.cache
