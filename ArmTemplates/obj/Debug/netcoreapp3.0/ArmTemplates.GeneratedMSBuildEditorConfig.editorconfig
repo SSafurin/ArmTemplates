@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ArmTemplates
+build_property.ProjectDir = c:\_Azure\Interne Projekte\IaaS\ARM DevOps Create Web and DB\ArmTemplates\ArmTemplates\
